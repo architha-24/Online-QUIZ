@@ -32,4 +32,4 @@ A **responsive quiz app** built using **HTML, CSS, and JavaScript** that allows 
 
 ---
 
-Live Demo : https://github.com/architha-24/Online-QUIZ/
+Live Demo : https://github.com/architha-24/Online-QUIZ
