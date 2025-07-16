@@ -29,3 +29,7 @@ A **responsive quiz app** built using **HTML, CSS, and JavaScript** that allows 
     ```
 
 2. **Open `index.html` in your browser** to run the app locally.
+
+---
+
+Live Demo : https://github.com/architha-24/Online-QUIZ/
